@@ -1,4 +1,6 @@
 # JKFLIPFLOP-USING-IF-ELSE
+# NAME : M.V.Vamsidhar Reddy
+# REG NO : 212224040205
 
 **AIM:** 
 
@@ -45,7 +47,6 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1167" height="563" alt="Screenshot 2025-10-16 204549" src="https://github.com/user-attachments/assets/74731697-36e8-42fa-bffb-c94a56a85587" />
-
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 <img width="1176" height="599" alt="Screenshot 2025-10-16 204615" src="https://github.com/user-attachments/assets/fe25e9e7-6536-469d-b9a3-6783bd851cd2" />
